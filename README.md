@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://jaganathen.github.io/Personal-Website/](https://jaganathen.github.io/Personal-Website/)
+- 👨‍💻 All of my projects are available at [https://jagannathan606.github.io/Personal-Website/](https://jagannathan606.github.io/Personal-Website/)
 
 - 💬 Ask me about **React, Next.js, React Native**
 
